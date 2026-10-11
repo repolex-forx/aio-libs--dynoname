@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/aio-libs/dynoname/commit/92a80b5ad5797ad78f214ec78e0ddec50a5ea557",
       "git:hexsha": "92a80b5ad5797ad78f214ec78e0ddec50a5ea557",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T08:47:06.539756+00:00"
     }
   ]
 }
